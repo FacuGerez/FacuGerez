@@ -32,15 +32,21 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="67" height="35" alt="gmail logo"  />
+  <a href="mailto:facundogerezuba@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="67" height="35" alt="gmail logo"  />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/facu-gerez-dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="35" alt="linkedin logo"  />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="67" height="35" alt="whatsapp logo"  />
+  <a href="https://wa.me/541136539260" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="67" height="35" alt="whatsapp logo"  />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="67" height="35" alt="discord logo"  />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="67" height="35" alt="slack logo"  />
+  <a href="https://discord.com/users/1102662992761454752" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="67" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 ###
